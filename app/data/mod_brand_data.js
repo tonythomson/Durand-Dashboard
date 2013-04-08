@@ -15,7 +15,7 @@
     "isBest": true,
     "followUp": "Investigate drivers of variation in performance for Christophers and Gidd events as they are the most promoted brands and can most impact performance",
     "action": null,
-    "hiddenAction": null,
+    "hiddenAction": "These brands account for ~68% of the promo events",
     "actionColor": "yellow",
     "disabled": false,
     "ActionOrder": 1
